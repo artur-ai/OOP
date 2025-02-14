@@ -2,7 +2,7 @@ using System;
 
 class Vector
 {
-    private double x, y; // Координати кінця вектора
+    private double x, y; 
 
     public Vector(double x = 0, double y = 0)
     {
