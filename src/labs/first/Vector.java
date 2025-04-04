@@ -1,4 +1,4 @@
-package labs;
+package labs.first;
 
 public class Vector {
     private double x;
