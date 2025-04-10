@@ -1,4 +1,4 @@
-package lab4;
+package labs.lab4;
 
 public class NumericString extends StringBase {
 
