@@ -1,0 +1,16 @@
+Student,Ivan,Petrov,КВ123456,1,12.05.2003
+Student,Maksim,Sydorez,КВ456987,2,29.12.2006
+Student,Dasha,Ivanova,КВ654321,4,08.03.2004
+Student,Maria,Lobach,КВ654331,4,25.03.2004
+Student,Artem,Balak,КВ123458,4,25.03.2003
+Baker OhelKhmel
+{ "firstname": "Ohel",
+  "lastname": "Khmel",
+  "bakeryName": "TopBakery"};
+
+Entrepreneur VadimShevchenko
+{ "firstname": "Vadim",
+  "lastname": "Shevchenko",
+  "companyName": "TechnoTop"};
+
+Musician,Vlad,Melnik,Violin
